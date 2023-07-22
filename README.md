@@ -28,7 +28,7 @@
 ![HTML](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
 ![CSS](https://img.shields.io/badge/-kotlin-05122A?style=flat&logo=kotlin&logoColor=1572B6)&nbsp;
 ![React.js](https://img.shields.io/badge/-swift-05122A?style=flat&logo=swift)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Node.js](https://img.shields.io/badge/-netbeans-05122A?style=flat&logo=netbeans&logoColor=339933)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
