@@ -34,7 +34,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-eclipse-05122A?style=flat&logo=eclipse)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-intellij-05122A?style=flat&logo=intellij)&nbsp;
-![MongoDB](https://img.shields.io/badge/-Reactnative-05122A?style=flat&logo=reactnative)&nbsp;
+![MongoDB](https://img.shields.io/badge/-reactnative-05122A?style=flat&logo=reactnative)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
