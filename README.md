@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="file:///D:/Git%20and%20git%20hub%20course/download.svg"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="file:///D:/Git%20and%20git%20hub%20course/animationforgithub.svg"></a>
 </p> 
 
 - 🏢 I'm a Software Engineer
