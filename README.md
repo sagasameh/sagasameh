@@ -14,7 +14,7 @@
 - 🏢 I'm a Software Engineer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with flutter, java, and kotlin, or anything related to app development.
-- ⚡ Fun Fact: I'm alao a novalist
+- ⚡ Fun Fact: I'm also a novelist
 
 
 
