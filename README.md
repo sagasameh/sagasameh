@@ -19,20 +19,8 @@
 
 
 
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-dart-05122A?style=flat&logo=dart&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
-![CSS](https://img.shields.io/badge/-kotlin-05122A?style=flat&logo=kotlin&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-swift-05122A?style=flat&logo=swift)
-![Node.js](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=netbeans&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-eclipse-05122A?style=flat&logo=eclipse)&nbsp;
-![GraphQL](https://img.shields.io/badge/-intellij-05122A?style=flat&logo=intellij)&nbsp;
-![MongoDB](https://img.shields.io/badge/-reactnative-05122A?style=flat&logo=reactnative)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+
+
 
 
 
